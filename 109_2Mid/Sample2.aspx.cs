@@ -10,5 +10,20 @@ namespace _109_2Mid {
         protected void Page_Load(object sender, EventArgs e) {
 
         }
+
+        protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void DropDownList2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void rb1_Res_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
